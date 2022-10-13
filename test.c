@@ -3,7 +3,7 @@
 
 int main(void)
  {
-  printf("This is me and James");
+  printf("We are software engineers");
   return (0);
   }
 
